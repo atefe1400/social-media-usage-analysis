@@ -1,0 +1,31 @@
+respondent_id,age,gender,country,education_level,uses_instagram,uses_twitter,uses_youtube,daily_usage_minutes,satisfaction_level
+1001,40,Male,USA,PhD,No,Yes,No,166,5
+1002,38,Male,India,High School,Yes,No,No,29,5
+1003,25,Male,India,High School,Yes,Yes,Yes,30,3
+1004,38,Male,Canada,High School,Yes,Yes,No,293,5
+1005,20,Male,Canada,Master's,Yes,No,Yes,179,2
+1006,34,Male,Canada,Master's,No,No,No,289,1
+1007,23,Female,India,PhD,No,No,Yes,278,4
+1008,50,Male,Canada,Associate's,Yes,No,Yes,43,3
+1009,25,Female,Germany,High School,No,Yes,Yes,237,1
+1010,43,Male,USA,Master's,Yes,Yes,Yes,88,1
+1011,49,Female,Iran,Associate's,Yes,Yes,No,24,4
+1012,43,Male,Canada,Master's,Yes,Yes,Yes,71,3
+1013,36,Male,Iran,PhD,Yes,Yes,No,245,1
+1014,48,Male,Iran,PhD,Yes,Yes,No,38,1
+1015,22,Male,USA,Associate's,Yes,No,No,29,1
+1016,20,Male,Canada,High School,No,Yes,Yes,157,5
+1017,43,Male,India,Master's,No,Yes,Yes,43,3
+1018,43,Male,India,Bachelor's,No,No,Yes,172,4
+1019,34,Female,Germany,Associate's,No,No,Yes,286,5
+1020,42,Male,Iran,Master's,Yes,Yes,No,235,5
+1021,45,Female,USA,Master's,No,Yes,Yes,136,5
+1022,21,Male,Iran,Associate's,Yes,Yes,No,115,1
+1023,20,Female,Germany,Associate's,Yes,Yes,Yes,44,1
+1024,19,Female,Germany,Master's,No,Yes,Yes,97,3
+1025,30,Male,USA,Associate's,No,No,No,122,2
+1026,21,Male,Iran,High School,No,Yes,Yes,70,5
+1027,45,Female,USA,PhD,Yes,No,No,71,2
+1028,34,Female,Germany,Bachelor's,Yes,Yes,No,85,2
+1029,38,Male,USA,Associate's,Yes,Yes,Yes,90,5
+1030,24,Male,Canada,High School,Yes,Yes,No,133,3
